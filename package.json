@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.2",
+    "sequelize-cli": "^2.5.1"
+  }
+}
